@@ -1,0 +1,106 @@
+{
+  "shops": [
+    {
+      "name" : "Mad Grillz",
+      "latitude" : 37.785343,
+      "longitude" : -122.406677,
+      "deal" : {
+          "description" : "Fries Clearance",
+          "item" : "French Fries",
+          "picture" : "https://i.ndtvimg.com/i/2018-02/fries_620x330_51517901541.jpg"
+      } 
+    },
+    {
+      "name" : "Crabby Patty",
+      "latitude" : 37.789831,
+      "longitude" : -122.400862,
+      "deal" : {
+          "description" : "Hash Brown Sale",
+          "item" : "Hash Brown",
+          "picture" : "https://i.ndtvimg.com/i/2018-02/fries_620x330_51517901541.jpg"
+      } 
+    },
+    {
+      "name" : "Hard Knox Cafe",
+      "latitude" : 37.782911,
+      "longitude" : -122.409996,
+      "deal" : {
+          "description" : "Burger Night",
+          "item" : "Juicy Lucy",
+          "picture" : "https://i.ndtvimg.com/i/2018-02/fries_620x330_51517901541.jpg"
+      } 
+    },
+    {
+      "name" : "Sticky Fingers",
+      "latitude" : 37.775399,
+      "longitude" : -122.420056,
+      "deal" : {
+          "description" : "2 for 1 Sliders",
+          "item" : "Sliders",
+          "picture" : "https://i.ndtvimg.com/i/2018-02/fries_620x330_51517901541.jpg"
+      } 
+    },
+    {
+      "name" : "Jun's Cafe",
+      "latitude" : 37.771364,
+      "longitude" : -122.424747,
+      "deal" : {
+          "description" : "Coffee Clearance",
+          "item" : "Coffee Beans",
+          "picture" : "https://i.ndtvimg.com/i/2018-02/fries_620x330_51517901541.jpg"
+      } 
+    },
+    {
+      "name" : "Xing Zhao's Kitchen",
+      "latitude" : 37.767521,
+      "longitude" : -122.429078,
+      "deal" : {
+          "description" : "Steamed Fish",
+          "item" : "Steamed Fish",
+          "picture" : "https://i.ndtvimg.com/i/2018-02/fries_620x330_51517901541.jpg"
+      } 
+    },
+    {
+      "name" : "Sushi Mooshi",
+      "latitude" : 37.766614,
+      "longitude" : -122.430502,
+      "deal" : {
+          "description" : "2 for 1 Rolls",
+          "item" : "Sushi Rolls",
+          "picture" : "https://i.ndtvimg.com/i/2018-02/fries_620x330_51517901541.jpg"
+      } 
+    },
+    {
+      "name" : "Kitchen Story",
+      "latitude" : 37.764968,
+      "longitude" : -122.429847,
+      "deal" : {
+          "description" : "Noodle Day",
+          "item" : "Chow Mein",
+          "picture" : "https://i.ndtvimg.com/i/2018-02/fries_620x330_51517901541.jpg"
+      } 
+    },
+    {
+      "name" : "L'Ardois",
+      "latitude" : 37.766698,
+      "longitude" : -122.432519,
+      "deal" : {
+          "description" : "Pasta Night",
+          "item" : "Shrimp Pasta",
+          "picture" : "https://i.ndtvimg.com/i/2018-02/fries_620x330_51517901541.jpg"
+      } 
+    },
+    {
+      "name" : "Beaux",
+      "latitude" : 37.763347,
+      "longitude" : -122.433807,
+      "deal" : {
+          "description" : "Roast Pork",
+          "item" : "Roast Pork",
+          "picture" : "https://i.ndtvimg.com/i/2018-02/fries_620x330_51517901541.jpg"
+      } 
+    }
+  ]
+}
+    
+         
