@@ -31,7 +31,7 @@ var appRouter = function(app) {
     if (response.length < 0) {
       return res.send({"message": "No deals available"});
     }
-    return res.send({"status": "success", "deals": response});
+    return res.send({"deals": response});
   });
 
   app.get("/account", function(req, res) {
